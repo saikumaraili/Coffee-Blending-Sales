@@ -9,10 +9,10 @@ Course: `OR531: Operations Research - Decision Analysis`
 <br>
 *Image Credits: Unsplash*
 
-## TL;DR 
+## :basecamp: TL;DR 
 Hill-O-Beans Coffee Company is optimizing its coffee blending process for luxury hotels, restaurants, and supermarkets. The goal is to maximize weekly profit by determining the ideal quantities of four coffee beans (Robusta, Javan Arabica, Liberica, Brazilian Arabica) for each brand, considering supply limits, costs, and minimum production requirements. Various analyses, including graphical representations, are employed to answer key questions and guide decision-making.
 
-## Project Description
+## :basecamp: Project Description
 Hill-O-Beans Coffee Company mixes four different types of coffee beans to create three coffee brands for luxury hotels, restaurants, and supermarkets. The beans they use are called Robusta, Javan Arabica, Liberica, and Brazilian Arabica. The company needs to decide how much of each type of bean should go into making each brand of coffee.
 
 There are limits to how many of each bean they can get, as shown in the blue table. It also tells us how much each type of bean costs per pound.
@@ -26,7 +26,7 @@ The company has contractual requirements for the minimum amount of caffeine in e
 <img width="526" alt="blue table" src="https://github.com/sk-aili/Coffee-Blending-Sales/assets/99275093/017afc61-9eb6-410d-a8e9-86cfce025897"><br>
 <img width="526" alt="orange table" src="https://github.com/sk-aili/Coffee-Blending-Sales/assets/99275093/7c332edb-0dd7-45b0-87aa-8e31889a0f14">
 
-## Important Questions
+## :basecamp: Important Questions
 
 **Optimal Purchase**: How many pounds of each bean should be bought to maximize weekly profit?  
 Answer: The maximum weekly profit = $67,625
@@ -46,7 +46,7 @@ Answer is $0.825. The base cost of liberica is $0.55 and the shadow price is $0.
 <img width="743" alt="Screenshot 2024-02-07 at 7 59 17 PM" src="https://github.com/sk-aili/Coffee-Blending-Sales/assets/99275093/de1c9e97-b196-4b85-9bfc-40b422d267a7">
 
 
-## Graphical Analysis  
+## :basecamp: Graphical Analysis  
 **Graph 1**: Optimal Profit vs. Minimum Weekly Production of Restaurant Blend  
 Visual representation of how optimal profit changes with the minimum weekly production of the restaurant blend.
 <br>
@@ -60,12 +60,12 @@ Graph illustrating the variation in optimal profit concerning the unit cost of R
 <br>
 
 
-## What you need: tools
+## :basecamp: What you need: tools
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)    
 ![Analytical Solver](https://github.com/sk-aili/Coffee-Blending-Sales/assets/99275093/3fb5d7cd-7410-4de5-9326-9a8fe8aad149)
 
 
-## Approach
+## :basecamp: Approach
 **Input**<br>
 <img width="393" alt="redesigned input" src="https://github.com/sk-aili/Coffee-Blending-Sales/assets/99275093/c63dee97-7a0b-4a17-adf4-a5721918aafc">
 <br>
@@ -75,7 +75,7 @@ Graph illustrating the variation in optimal profit concerning the unit cost of R
 **Calculations**<br>
 <img width="609" alt="formulation" src="https://github.com/sk-aili/Coffee-Blending-Sales/assets/99275093/75e49d6e-6eab-4fdd-b3ac-b618dacab9ee">
 
-## Conclusion
+## 🏁 Conclusion
 
 This comprehensive analysis guides Hill-O-Beans in making informed decisions to maximize profit while meeting production requirements, incorporating mathematical optimization and graphical representation for actionable insights.
 
