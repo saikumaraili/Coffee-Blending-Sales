@@ -10,7 +10,7 @@ Course: `OR531: Operations Research - Decision Analysis`
 *Image Credits: Unsplash*
 
 ## :basecamp: TL;DR 
-Hill-O-Beans Coffee Company is optimizing its coffee blending process for luxury hotels, restaurants, and supermarkets. The goal is to maximize weekly profit by determining the ideal quantities of four coffee beans (Robusta, Javan Arabica, Liberica, Brazilian Arabica) for each brand, considering supply limits, costs, and minimum production requirements. Various analyses, including graphical representations, are employed to answer key questions and guide decision-making.
+In this case study, Hill-O-Beans Coffee Company wants to make their coffee taste super good for fancy hotels, restaurants, and supermarkets. They are trying to figure out the best way to mix four different types of coffee beans – Robusta, Javan Arabica, Liberica, and Brazilian Arabica – to make the most money each week. They have to think about how many beans they can get, how much they cost, and the smallest amount they have to make for each hotel, restaurant, and supermarket. I used special math and visuals to help them make smart choices and decide how to blend the coffee beans.
 
 ## :basecamp: Project Description
 Hill-O-Beans Coffee Company mixes four different types of coffee beans to create three coffee brands for luxury hotels, restaurants, and supermarkets. The beans they use are called Robusta, Javan Arabica, Liberica, and Brazilian Arabica. The company needs to decide how much of each type of bean should go into making each brand of coffee.
