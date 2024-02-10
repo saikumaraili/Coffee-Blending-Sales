@@ -10,13 +10,13 @@ Course: `OR531: Operations Research - Decision Analysis`
 *Image Credits: Unsplash*
 
 Contents
-1. [TL;DR](#tl;dr)
-2. [Project Description](#project-description)
-3. [Important Questions](#important-questions)
-4. [Graphical Analysis](#graphical-analysis)
-5. [What you need: tools](#what-you-need:-tools)
-6. [Approach](#approach)
-7. [Conclusion](#conclusion)
+1. TL;DR
+2. Project Description
+3. Important Questions
+4. Graphical Analysis
+5. What you need: tools
+6. Approach
+7. Conclusion
 
 ## :basecamp: TL;DR 
 In this case study, Hill-O-Beans Coffee Company wants to make their coffee taste super good for fancy hotels, restaurants, and supermarkets. They are trying to figure out the best way to mix four different types of coffee beans – Robusta, Javan Arabica, Liberica, and Brazilian Arabica – to make the most money each week. They have to think about how many beans they can get, how much they cost, and the minimum amount they have to make for each hotel, restaurant, and supermarket. I used special math and visuals to help them make smart choices and decide how to blend the coffee beans.
