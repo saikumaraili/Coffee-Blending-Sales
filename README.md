@@ -1,5 +1,5 @@
 
-# Coffee Company Decision Analysis
+# Data-Driven Coffee Blend Optimization: Maximizing Profits with Excel Solver
 Date: `02/14/2022`   
 Author: `Sai Kumar Aili`   
 Degree: `M.Sc, Data Analytics Engineering`   
